@@ -1,13 +1,13 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Derek Peng's Website",
+  "name": "Derek Peng",
+  "ascii": "Peng",
   "social": {
-    "github": "github",
+    "github": "github.com/Cybertron51",
     "linkedin": "linkedin"
   },
-  "email": "contact@email.com",
+  "email": "derekyp9@gmail.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
